@@ -15,3 +15,10 @@ https://world.openfoodfacts.org/
 
 ***Descriptions***
 https://world.openfoodfacts.org/data/data-fields.txt
+
+### Tools and competencies
+- Data cleaning and exploration
+
+- Statistical analyses
+  - Univariate, bivariate, and multi-variate analyses
+
