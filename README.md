@@ -17,7 +17,7 @@ https://world.openfoodfacts.org/
 https://world.openfoodfacts.org/data/data-fields.txt
 
 ### Tools and competencies
-- Data cleaning and exploration
+- Data cleaning and Data exploratory analysis
 
 - Statistical analyses
   - Univariate, bivariate, and multi-variate analyses
